@@ -1,0 +1,10 @@
+github 
+
+git init 
+git remote add origin <FileGit>
+git add .
+git commit -m "First commit"
+git push origin master
+
+
+done
